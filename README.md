@@ -1,5 +1,7 @@
 # Early Signs of Heart Disease Prediction using 1D Convolutional Neural Networks
 
+View notebook and in-depth walkthrough on [Kaggle](https://www.kaggle.com/code/henrytang05/ecg-detection-1d-cnn)
+
 This repository contains the code and Jupyter Notebooks for a machine learning project that aims to predict early signs of heart disease using a combination of a 1D Convolutional Neural Network (CNN) and a parallel neural network, each respectively trained on Electrocardiogram (ECG) signals and patient metadata to achieve an approximate binary accuracy of 90%.
 
 ## Table of Contents
